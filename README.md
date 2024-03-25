@@ -6,7 +6,7 @@ Feature declaration form signed and filled and submitted in submission area
 
 ## Scene
 Project is a basic city scene with an original model that acts as a city
-Other features include: Rotating spotlight that "scans" the city scene, clouds, plane mesh
+/nOther features include: Rotating spotlight that "scans" the city scene, clouds, plane mesh
 
 ## Project files
 City and cloud models provided as `.obj` files in the `media` folder
